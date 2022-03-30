@@ -16,8 +16,10 @@
 - 작품의 특징 : 
  
  
+ > 수업내용: Github page만드는 법  
+ - [id]github.io -> index.html 혹은 리드미 파일이 있으면 [id]github.io
  
- > 작업현황 
+ > 개발일지,작업현황 
  - 
  - 
 
