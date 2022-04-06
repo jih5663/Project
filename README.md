@@ -1,6 +1,6 @@
 <h3># 장인혁 201840131<h3>
-<br>
-> <h2>졸업작품 소개<h2><br>
+
+> 졸업작품 소개<br>
 - 작품명 : Rendezvous<br>
 - 개발환경 : VS2018,adobe XD,phostshop,Visual Studio<br>
 - 작품 소개 : 화장품 브랜드 몰 홈페이지 구축<br>
