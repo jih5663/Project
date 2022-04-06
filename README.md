@@ -2,7 +2,7 @@
 <br>
 > 졸업작품 소개<br>
 - 작품명 : Rendezvous<br>
-- 개발환경 : VS2018,adobe XD,phostshop<br>
+- 개발환경 : VS2018,adobe XD,phostshop,Visual Studio<br>
 - 작품 소개 : 화장품 브랜드 몰 홈페이지 구축<br>
 - 작품의 특징 : 
  
@@ -18,7 +18,6 @@
 - 작품명 : Rendezvous
 - 개발환경 : VS2018,adobe XD,phostshop
 - 작품 소개 : 화장품 브랜드 몰 홈페이지 구축
-- 작품의 특징 : 
  
  
  >  
