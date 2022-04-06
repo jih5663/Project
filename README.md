@@ -27,6 +27,8 @@
  - 정리했던 내용이 실제 구현가능한 가능성이 얼마나 되는지 가늠해보기
  - 어떤 Program을 사용하여 편집하 것인지 논의
  - 사진촬영 작업
+ ![KakaoTalk_20220406_151517632_10](https://user-images.githubusercontent.com/79886490/161908317-f2d8f15c-99eb-49a0-b29f-946b781c95d2.jpg)
+
  
 
 
