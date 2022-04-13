@@ -1,9 +1,9 @@
 <h3># 장인혁 201840131<h3>
 
 > 졸업작품 소개<br>
-- 작품명 : Rendezvous<br>
+- 작품명 : 여우별<br>
 - 개발환경 : VS2018,adobe XD,phostshop,Visual Studio<br>
-- 작품 소개 : 화장품 브랜드 몰 홈페이지 구축<br>
+- 작품 소개 : 의류 편집샵 홈페이지 구축<br>
 - 팀명 : 친해지죠  
 - 이름 : 장인혁  
 - 졸업작품 소개사이트:https://jeonseunghyeon.github.io/Rendezvous/
