@@ -9,7 +9,7 @@
 - 졸업작품 소개사이트:https://jeonseunghyeon.github.io/Rendezvous/
 
    
-## [ 04월 20일 ]
+## [ 04월 27일 ]
 <br>
 
  > 개발일지,작업현황 
