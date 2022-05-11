@@ -22,6 +22,7 @@
  - 메인 배너영상에서의 자막은 <캐쥬얼+스트릿>을 사용하기로 결정하였음
  - 상세페이지내 로고문양 제작
  ![로고1](https://user-images.githubusercontent.com/79886490/167795513-1947dd9a-5524-4c9f-bee8-8acc1187d235.png)
+![로고2](https://user-images.githubusercontent.com/79886490/167795770-ee209410-affe-402e-a1bc-fd420e0d77f6.png)
 
     
 
