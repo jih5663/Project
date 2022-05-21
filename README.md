@@ -22,7 +22,7 @@
  - 라이브로 상품을 입고 거리를 돌아다니는 느낌을 살릴 수 있는 영상이 되도록 제작하는 중
  - 영상 초입부 로고,
   
-  ![항공 상세페이지 영상1 초입부](https://user-images.githubusercontent.com/79886490/169647578-3e00702b-773d-464d-bcee-6deb4b284b13.png)
+ <center> ![항공 상세페이지 영상1 초입부](https://user-images.githubusercontent.com/79886490/169647578-3e00702b-773d-464d-bcee-6deb4b284b13.png) </center>
 
 
   
