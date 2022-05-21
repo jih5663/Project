@@ -23,6 +23,7 @@
  - 영상 초입부 로고,
   
   ![항공 상세페이지 영상1 초입부](https://user-images.githubusercontent.com/79886490/169647578-3e00702b-773d-464d-bcee-6deb4b284b13.png) 
+  ![항공 상세페이지 영상1 LIVE로고](https://user-images.githubusercontent.com/79886490/169647734-00c4e643-b108-4a80-b51e-503fff656463.png)
 
 
   
