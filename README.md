@@ -23,8 +23,10 @@
 ![jacket 1](https://user-images.githubusercontent.com/79886490/170655595-465e68f7-a38c-459e-8af9-fb3561b222ad.png)
 - 상세페이지 영상 
 https://user-images.githubusercontent.com/79886490/170657161-d3ddde59-b4fb-4350-86d1-c23785f65ece.mp4
+    
   
-- 상세페이지 판매상품 요약
+- 상세페이지 판매상품 요약  
+  
 ![jacket 1](https://user-images.githubusercontent.com/79886490/170657799-80454fa5-d97a-476e-ac99-c166eacc5b0b.png)
   
 
