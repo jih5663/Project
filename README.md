@@ -21,7 +21,8 @@
  - 메인배너,항공점퍼 상세페이지 영상제작 완료
  - 상세페이지 시작부분은 상의(아우터)의 세일정보로 시작
 ![jacket 1](https://user-images.githubusercontent.com/79886490/170655595-465e68f7-a38c-459e-8af9-fb3561b222ad.png)
-
+- 상세페이지 영상 
+https://user-images.githubusercontent.com/79886490/170657161-d3ddde59-b4fb-4350-86d1-c23785f65ece.mp4
   
 
 -----
